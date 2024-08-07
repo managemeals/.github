@@ -7,3 +7,7 @@ We like food, recipes, organizing, good UX, lightweight UI and speed.
 ## Self-hosting
 
 See the [wiki](https://github.com/managemeals/manage-meals-api/wiki/Self%E2%80%90hosting).
+
+## TODO
+
+See the TODO list [here](https://github.com/managemeals/manage-meals-api/wiki/TODO).
